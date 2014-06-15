@@ -1,0 +1,27 @@
+<td class="browse-titles"><ul class="titlelist"><li><a class="book-title" href="/book/1806/">Acharnians, The</a> by
+<a href="/author/209/"> Aristophanes</a></li><li><a class="book-title" href="/book/1805/">Agesilaus</a> by
+<a href="/author/208/"> Xenophon</a></li><li><a class="book-title" href="/book/1804/">Alcibiades I</a> by
+<a href="/author/207/"> Plato</a>&nbsp;<img title="5 (Average of 2 votes)" src="/media/img/site/5stars-w.gif"> &nbsp;</li></ul></td><td><ul class="titlelist"><li><a class="book-title" href="/book/1803/">Anabasis</a> by
+<a href="/author/208/"> Xenophon</a></li><li><a class="book-title" href="/book/2083/">Apology</a> by
+<a href="/author/207/"> Plato</a></li><li><a class="book-title" href="/book/1802/">Apology, The</a> by
+<td class="browse-titles"><ul class="titlelist"><li><a class="book-title" href="/book/1801/">Birds, The</a> by
+<td class="browse-titles"><ul class="titlelist"><li><a class="book-title" href="/book/2602/">Categories, The</a> by
+<a href="/author/264/"> Aristotle</a></li><li><a class="book-title" href="/book/1800/">Cavalry General, The</a> by
+<a href="/author/208/"> Xenophon</a></li><li><a class="book-title" href="/book/2116/">Charmides</a> by
+<a href="/author/207/"> Plato</a></li></ul></td><td><ul class="titlelist"><li><a class="book-title" href="/book/1799/">Clouds, The</a> by
+<a href="/author/209/"> Aristophanes</a>&nbsp;<img title="5 (Average of 1 votes)" src="/media/img/site/5stars-w.gif"> &nbsp;</li><li><a class="book-title" href="/book/1798/">Critias</a> by
+<a href="/author/207/"> Plato</a></li><li><a class="book-title" href="/book/2082/">Crito</a> by
+<td class="browse-titles"><ul class="titlelist"><li><a class="book-title" href="/book/1797/">Euthydemus</a> by
+<a href="/author/207/"> Plato</a></li></ul></td><td><ul class="titlelist"><li><a class="book-title" href="/book/1796/">Euthyphro</a> by
+<td class="browse-titles"><ul class="titlelist"><li><a class="book-title" href="/book/1795/">Ion</a> by
+<td class="browse-titles"><ul class="titlelist"><li><a class="book-title" href="/book/2084/">Laches</a> by
+<a href="/author/207/"> Plato</a>&nbsp;<img title="4 (Average of 2 votes)" src="/media/img/site/4stars-w.gif"> &nbsp;</li><li><a class="book-title" href="/book/1794/">Lesser Hippias</a> by
+<a href="/author/207/"> Plato</a></li></ul></td><td><ul class="titlelist"><li><a class="book-title" href="/book/1793/">Lysis</a> by
+<td class="browse-titles"><ul class="titlelist"><li><a class="book-title" href="/book/1792/">Memorabilia, The</a> by
+<a href="/author/208/"> Xenophon</a>&nbsp;<img title="4 (Average of 1 votes)" src="/media/img/site/4stars-w.gif"> &nbsp;</li><li><a class="book-title" href="/book/1791/">Menexenus</a> by
+<a href="/author/207/"> Plato</a></li></ul></td><td><ul class="titlelist"><li><a class="book-title" href="/book/1790/">Meno</a> by
+<td class="browse-titles"><ul class="titlelist"><li><a class="book-title" href="/book/1807/">On Horsemanship</a> by
+<td class="browse-titles"><ul class="titlelist"><li><a class="book-title" href="/book/1820/">Peace</a> by
+<a href="/author/209/"> Aristophanes</a>&nbsp;<img title="5 (Average of 3 votes)" src="/media/img/site/5stars-w.gif"> &nbsp;</li><li><a class="book-title" href="/book/1789/">Phaedo</a> by
+<a href="/author/207/"> Plato</a>&nbsp;<img title="5 (Average of 1 votes)" src="/media/img/site/5stars-w.gif"> &nbsp;</li></ul></td><td><ul class="titlelist"><li><a class="book-title" href="/book/2601/">Poetics, The</a> by
+<td class="browse-titles"><ul class="titlelist"><li><a class="book-title" href="/book/1788/">Republic, The</a> by
